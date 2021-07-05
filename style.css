@@ -7,6 +7,52 @@
 .container{
     width: 1200px;
 }
+/* ===========header section========= */
+header{
+    background-color: #13b47421;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    transition: ease ;
+    
+}
+.logo {
+    max-height: 80px;
+    width: 15%;
+    margin-left: 0;
+    
+}
+.logo img {
+    width: 100%;
+}
+.nav-menu{
+    width: 85%;
+
+}
+ul{
+    height: 80px;
+    margin-right: 100px;
+
+}
+ul li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 30px 15px;
+
+
+}
+ul li a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    color: #13B474;
+}
+ul li a:hover{
+    border-bottom: 3px solid #13B474;
+}
+
+/* =========header section======= */
 
 /* =========Hero section========= */
 .flexible-container{
