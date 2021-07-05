@@ -135,7 +135,7 @@
 
 /* =========Milestone section========= */
 .milestone{
-    margin: 50px 0;
+    margin: 50px 0 100px;
 }
 .milestone-card{
     box-shadow: 0px 0px 20px 6px rgba(0,0,0,0.13);
@@ -146,3 +146,22 @@ h1{
     font-size: 44px;
 }
 /* =========/Milestone section========= */
+
+/* =========footer section========= */
+footer{
+    background-color: rgb(20, 20, 20);
+    color: white;
+    padding: 25px 0;
+}
+#footer-text{
+    text-align: center;
+
+}
+#footerone-p{
+    text-align: center;
+    margin: 10px 0;
+}
+#footertwo-p{
+    text-align: center;
+}
+/* =========/footer section========= */
