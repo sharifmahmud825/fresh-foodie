@@ -24,10 +24,11 @@
 .text-design{
     color: #13B474;
 }
-p{
+#hero-p{
     font-size: 18px;
     font-weight: 500;
     margin-bottom: 50px;
+    
 }
 
 .cta{
@@ -53,6 +54,7 @@ p{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 50px 0;
 }
 .about-image{
     width: 50%;
@@ -71,5 +73,62 @@ p{
     margin-bottom: 50px;
      
 }
+#about-p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
 
 /* =========/About us section========= */
+
+/* =========Food catagory section========= */
+
+.catagory{
+    margin: 100px 0;
+}
+.catagory-text{
+    text-align: center;
+    font-size: 44px;
+    margin-bottom: 20px;
+}
+#catagory-p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.card{
+    width: 30%;
+    box-shadow: 0px 0px 6px 6px rgba(0,0,0,0.12);;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.fruit-image img{
+    width: 100%;
+}
+.fruit-text{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.veg-image img{
+    width: 100%;
+}
+.veg-text{
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.meat-image img {
+    width: 100%;
+}
+.meat-text{
+    padding: 10px;
+    margin-top: 10px;
+}
+.card-text{
+    margin-top: 20px;
+}
+
+/* =========/Food catagory section========= */
